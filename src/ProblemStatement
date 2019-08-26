@@ -1,0 +1,2 @@
+Design a Java interface for ADT Stack. Implement this interface using array. Provide necessary
+exception handling in both the implementations.Verify the implementation by pushing string data.
