@@ -1,4 +1,4 @@
-package mystack;
+spackage mystack;
 
 public interface Stack {	
 	public void push(String v)  throws StackException;

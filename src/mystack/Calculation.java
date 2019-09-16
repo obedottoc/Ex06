@@ -1,6 +1,6 @@
 package mystack;
 import java.util.*;
-
+s
 public class Calculation {
 
 	public static void main(String[] args) {
