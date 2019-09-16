@@ -4,7 +4,7 @@
 *Saveetha Engineering College
 *jpnithishkumar@gmail.com
 */
-package mystack;s
+package mystack;
 import java.util.*;
 
 public class Calculation {

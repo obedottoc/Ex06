@@ -4,7 +4,7 @@
 *Saveetha Engineering College
 *jpnithishkumar@gmail.com
 */
-package mystack;s
+package mystack;
 
 public class Mystack implements Stack {
 	private String data[];
