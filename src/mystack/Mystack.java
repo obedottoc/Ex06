@@ -1,4 +1,4 @@
-package mystack;
+spackage mystack;
 
 public class Mystack implements Stack {
 	private String data[];
