@@ -1,3 +1,10 @@
+/****
+ * Program for stackexception
+
+
+ * @author RAJAMANICKAM A
+ *  rajapandidevi1997@gmail.com
+ */
 package mystack;
 
 public class MyStack implements Stack {
