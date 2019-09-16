@@ -1,4 +1,4 @@
-pasckage mystack;
+package mystack;
 
 public class StackException extends Exception {
 	
