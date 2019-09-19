@@ -1,3 +1,6 @@
+/***
+ * mahesh
+ */
 package mystack;
 
 	public class MyStack implements Stack {
@@ -16,7 +19,7 @@ package mystack;
 		
 			if(top>=(data.length-1))
 			{
-				throw new StackException("Stack Full: It is already having "+(top+1)+" elements");
+				throw new StackException("Stack full: It is already having "+(top+1)+" elements");
 			}
 			top=top+1;
 			data[top]=v;

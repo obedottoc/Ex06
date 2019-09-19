@@ -1,3 +1,6 @@
+/***
+ * mahesh
+ */
 package mystack;
 
   public interface Stack {	
