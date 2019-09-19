@@ -1,5 +1,11 @@
 package mystack;
 import java.util.*;
+/***
+ * 
+ * @author  D.Rohith
+ * arohitharohi@gmail.com
+ *
+ */
 
 public class Calculation {
 
@@ -15,8 +21,9 @@ public class Calculation {
 		{
 			try
 			{
+				
 				System.out.println("1. Push a String");
-				System.out.println("2. Pop a String");
+				System.out.println("2. Pop  a String");
 				System.out.println("3. Exit");
 				System.out.print("Enter your choice:");
 			
@@ -27,7 +34,7 @@ public class Calculation {
 					System.out.print("Enter a String:");
 					value1=sc.next();
 					st.push(value1);
-					System.out.println("Push completed.");
+					System.out.println("Push Completed.");
 					break;
 				case 2:
 					value1=st.pop();

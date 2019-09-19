@@ -1,5 +1,10 @@
 package mystack;
-
+/***
+* 
+* @author  D.Rohith
+* arohitharohi@gmail.com
+*
+*/
 	public class MyStack implements Stack {
 		private String data[];
 		private int top;
