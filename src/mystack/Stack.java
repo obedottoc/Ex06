@@ -1,3 +1,6 @@
+/***
+ * @author vijaykumar
+ */
 package mystack;
 
   public interface Stack {	

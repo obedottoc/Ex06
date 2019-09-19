@@ -1,3 +1,6 @@
+/***
+ * @author vijaykumrakaranam
+ */
 package mystack;
 import java.util.*;
 
@@ -15,7 +18,7 @@ public class Calculation {
 		{
 			try
 			{
-				System.out.println("1. Push a String");
+				System.out.println("1.  Push a String");
 				System.out.println("2. Pop a String");
 				System.out.println("3. Exit");
 				System.out.print("Enter your choice:");
