@@ -1,3 +1,6 @@
+/***
+ * @author nikhil
+ */
 package mystack;
 
 public class StackException extends Exception {

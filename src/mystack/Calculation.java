@@ -1,3 +1,6 @@
+/***
+ * @author nikhil
+ */
 package mystack;
 import java.util.*;
 

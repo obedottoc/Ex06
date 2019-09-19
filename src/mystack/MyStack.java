@@ -1,3 +1,7 @@
+/***
+ * @author nikhil
+ * 
+ */
 package mystack;
 
 	public class MyStack implements Stack {
