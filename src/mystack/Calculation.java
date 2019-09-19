@@ -8,6 +8,7 @@ public class Calculation {
 		int option;
 		Stack st;
 		
+		
 		Scanner sc=new Scanner(System.in);
 		st=new MyStack(5);
 		
