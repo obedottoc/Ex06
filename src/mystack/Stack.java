@@ -1,3 +1,7 @@
+/*created by Abhijith.S
+abhijithabhi524@gmail.com
+*/
+
 package mystack;
 
 public interface Stack {	
