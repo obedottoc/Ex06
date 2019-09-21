@@ -4,7 +4,6 @@
  */
 
 package mystack;
-
 public class MyStack implements Stack {
 	 private String data[];
 	    private int top;
