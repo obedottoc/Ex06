@@ -1,3 +1,4 @@
+
 package mystack;
 
 public interface Stack {	

@@ -1,7 +1,10 @@
+
 package mystack;
 import java.util.*;
 
-public class Calculation {
+
+
+  public class Calculation {
 
 	public static void main(String[] args) {
 		String value1;

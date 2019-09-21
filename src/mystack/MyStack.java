@@ -1,10 +1,12 @@
+
 package mystack;
 
 public class MyStack implements Stack {
+	
 	private String data[];
 	private int top;
 
-	public MyStack(int s) 
+public MyStack(int s) 
 	{
 		top=-1;
 		data=new String[s];
@@ -23,13 +25,12 @@ public class MyStack implements Stack {
 
 	}
 
-	@Override
-	public String pop()throws StackException 
-	{
+ 	  public String pop()throws StackException 
+	  {
 		String result;
 		if(top<0)
 		{
-			throw new StackException("Stack is empty");
+			    throw new StackException("Stack is empty");
 		}
 		result=data[top];
 		top=top-1;
