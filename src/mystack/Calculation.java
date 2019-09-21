@@ -1,8 +1,3 @@
-/**created by s.sakthi, 
- * eee-b, 212217105051
- * 
- */
-
 package mystack;
 
 import java.util.Scanner;
@@ -38,9 +33,11 @@ public class Calculation {
                 case 2:
                     value1=st.pop();
                     System.out.printf("Stack top value=%s\n",value1);
-                    break;    
-                default:
-                    System.out.print("Please enter a valid number !!!");
+                    break;
+                case 3:
+                	break;
+               default:
+                   System.out.print("Please enter a valid number !!!");
                 }
                 
                 if(option==3)
@@ -51,10 +48,10 @@ public class Calculation {
             
             }catch(StackException e1)
             {
-                System.out.println("Error:"+e1.getMessage());
+                System.out.println("Error:Please enter a valid number !!!"+e1.getMessage());
             }catch(NumberFormatException e2)
             {
-                System.out.println("Error:"+e2.getMessage());
+                System.out.println("Error:Please enter a valid number !!!"+e2.getMessage());
             }
             }
         }       
