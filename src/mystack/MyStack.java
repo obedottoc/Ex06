@@ -1,3 +1,10 @@
+/*
+* This program is to implement push and pop operation
+* Developed by monica
+* Saveetha Engineering College
+* monicarajavel26@gmail.com
+*
+*/
 package mystack;
 
 public class MyStack implements Stack {
