@@ -11,7 +11,7 @@ public class MyStack implements Stack {
 	}
 	
 	@Override
-	 public void push(String v) throws StackException
+	  public void push(String v) throws StackException
 	{
 	
 		if(top>=(data.length-1))
