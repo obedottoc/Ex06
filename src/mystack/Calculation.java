@@ -3,7 +3,7 @@ import java.util.*;
 
 public class Calculation {
 
-	public static void main(String[] args) {
+	   public static void main(String[] args) {
 		String value1;
 		int option;
 		Stack st;
