@@ -3,7 +3,7 @@ import java.util.*;
 
 public class Calculation {
 
-	   public static void main(String[] args) {
+	    public static void main(String[] args) {
 		String value1;
 		int option;
 		Stack st;
@@ -11,8 +11,8 @@ public class Calculation {
 	    	 Scanner sc=new Scanner(System.in);
 		     st=new MyStack(5);
 		
-		while(true)
-		{
+		 while(true)
+		 {
 			try
 			{
 				System.out.println("1. Push a number");
