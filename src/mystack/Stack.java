@@ -1,3 +1,6 @@
+//*created by roopesh
+
+
 package mystack;
 
   public interface Stack {	

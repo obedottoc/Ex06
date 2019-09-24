@@ -1,3 +1,9 @@
+//*created by roopesh
+//*1roopesh3@gmail.com
+//*This program is written to design a java interface for adt stack using array by providing exceptions wherever neccessary.
+
+
+
 package mystack;
 import java.util.*;
 
