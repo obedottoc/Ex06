@@ -1,3 +1,7 @@
+/*created by kaarthikeyan
+ * email:gk81299@gmail.com
+ * 
+ */
 package mystack;
 
 public class MyStack implements Stack {
