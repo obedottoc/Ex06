@@ -1,3 +1,9 @@
+/****
+ * N.Gurusaibabu
+ * EEE B
+ */
+
+
 package mystack;
 
 public class Mystack implements Stack {
