@@ -1,3 +1,8 @@
+/****
+ * N.Gurusaibabu
+ * EEE B
+ */
+
 package mystack;
 
 public interface Stack {	
